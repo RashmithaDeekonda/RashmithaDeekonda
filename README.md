@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RashmithaDeekonda
-- 👀 I’m interested in computers
+- 👀 I’m interested in computers, crypto, blockchains, solidity.
 - 🌱 I’m currently learning how to program.
-- 💞️ I’m looking to collaborate on creating websites.
+- 💞️ I’m looking to collaborate on creating websites. 
 - 📫 How to reach me : rashmitha3105@gmail.com 
 
 <!---
